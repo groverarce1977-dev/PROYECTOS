@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Plan de Desarrollo Curricular",
+  "description": "Una aplicación React para generar Planes de Desarrollo Curricular (PDC) de educación boliviana utilizando la API de Google Gemini, siguiendo la legislación y documentos curriculares nacionales.",
+  "requestFramePermissions": []
+}
